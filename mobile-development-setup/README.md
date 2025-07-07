@@ -1,3 +1,18 @@
-# Objective
+# Task 0: Setup and Testing Mobile Environment
 
-Mobile development demands more computational resources compared to web development. To ensure a smooth development experience, we will be using the Expo Framework for React Native, which simplifies mobile app development and testing
+## ✅ Setup Summary
+
+- ✅ Installed Node.js v16+
+- ✅ Installed VS Code
+- ✅ Installed Expo CLI globally
+- ✅ Installed Expo Go on physical device (Android)
+- ✅ Logged into Expo account via Expo Go
+
+## ⚠️ Challenges
+
+- None
+
+## 🧪 Test Result
+
+- Able to scan QR code from `expo start`
+- App loads successfully on device
